@@ -28,6 +28,7 @@ I'm happy to say that in the 8 days that followed, I managed to find and dump:
 I started off on CeX A by checking missing PS3 games list.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS3 | France | BLES-00154 | Call of Duty 4: Modern Warfare | 6.00€
@@ -39,6 +40,7 @@ Bought that one since it was a French copy and not that common to find here, ret
 Visited CeX B next. First time going to that one, didn't find its location immediately. Checked missing PS3 games list again.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS3 | Europe | BLES-01068 | DanceDanceRevolution: New Moves | 6.00€
@@ -50,6 +52,7 @@ Same price! I just returned the game I've bought on the previous day and grabbed
 Visited CeX A again. Once more, checking missing PS3 games list.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS3 | Europe | BLES-00772 | Arthur and the Revenge of Maltazard | 6.00€
@@ -62,6 +65,7 @@ Returned the previous game and grabbed Arthur, then bought LBP Karting. Went hom
 Visited CeX A again. This time, I decided to check both the missing PS3 and PS2 game lists, since it had some low hanging fruits as well, and since they seemed easy to dump.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS3 | Europe | BLES-01857 | Destiny | 6.00€
@@ -75,6 +79,7 @@ Was looking for a possible version of Destiny that had a version newer than v1.0
 Tried to visit CeX A, but it was closed for maintenance. Visited CeX B instead. This time, I decided to check for PS3, PS2 and PSP game lists, since I have a PSP with CFW and can dump PSP games.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS2 | Portugal | SLES-55619 | SingStar Portugal Hits | 5.00€
@@ -90,6 +95,7 @@ Learned how to do a PSP Redump quality dump. Learned how to do a PS2 DVD Redump 
 Visited CeX A. Pretty calm day, decided to just grab a missing PS3 title that was 15€ and keep the remaining on store credit.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS3 | Portugal | BCES-00459/POR | Buzz!: Quem e o Génio Português? | 15.00€
@@ -108,18 +114,21 @@ After a few minutes, I found yet another PS2 game that wasn't on the Missing Lis
 I checked all of the remaining PS2 stock of the store, as well as some PSP games, but I found no more games that weren't even listed as missing. The Redump Staff immediately added my findings to the wiki while I was still in store, with a note mentioning that I had acquired both titles.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS2 | Portugal | SCES-54263 | Buzz! O Quiz Desportivo | 4.00€
 PSP | Portugal | ULES-01592 | FIFA 14 | 8.00€
 
 **Found (Undiscovered):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS2 | Portugal | SLES-50855 | Mundial 2002 Challenge | 1.50€
 PS2 | Portugal | SLES-55166 | Bob o Construtor: Festival do Divertimento | 1.00€
 
 **Found (MIA, missing Verification Dump):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS2 | Portugal | SCES-54769 | SingStar Latino | 3.50€
@@ -132,11 +141,13 @@ Visited CeX C. Wanted to check their stock, but was disappointed. Returned previ
 I looked at my PS2 games at home, and found a copy of Original Edition Nemo that only had a single dump and it was the Platinum version, so did a verification dump of that one. I also did a Verification Dump of Chessmaster, since it only had one dump.
 
 **Found (Missing List):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS2 | Portugal | SCES-54504 | Buzz!: O Mega Quiz | 12.00€
 
 **Found (Verification Dump):**
+
 Console | Region | ID | Name | Price
 ------- | ------ | -- | ---- | -----
 PS2 | Portugal | SLES-51061# | Grand Theft Auto: Vice City | 6.00€
@@ -154,6 +165,7 @@ Final notes
 Even though I dumped many missing Portugal Region games, there are still some missing! If you have or can get access to them, please find a way to submit a Redump entry for them.
 
 List of missing Portugal Games as of currently:
+
 Console | ID | Name
 ------- | -- | ----
 PS2 | SCES-50605 | Monstros e Companhia: Ilha Assustadora
